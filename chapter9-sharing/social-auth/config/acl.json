@@ -5,6 +5,16 @@
       "resources": [
         "/properties", "/properties/temperature", "/properties/humidity", "/properties/pir", "/leds/1", "/leds/2", "/actions/ledState"
       ]
+    },{
+      "uid": "facebook:414400176035671",
+      "resources": [
+        "/properties", "/properties/temperature", "/properties/humidity", "/properties/pir", "/leds/1", "/leds/2", "/actions/ledState"
+      ]
+    },{
+      "uid": "facebook:2379580842066476",
+      "resources": [
+        "/properties", "/properties/temperature", "/properties/humidity", "/properties/pir", "/leds/1", "/leds/2", "/actions/ledState"
+      ]
     },
     {
       "uid": "facebook:10104818212136076",
@@ -26,7 +36,7 @@
     {
       "id": "WoTPi",
       "url": "https://127.0.0.1:8484",
-      "token": "cKXRTaRylYWQiF3MICaKndG4WJMcVLFz"
+      "token": "htSMTmDcrF44GskQhimJnSYEt65eFGy3"
     }
   ],
   "config": {

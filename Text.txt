@@ -1,0 +1,9 @@
+Kommandon för github!
+
+$ git clone https://github.com/ADDRESS-OF-YOUR-FORK --recursive
+$ cd wot-book
+$ git pull
+$ ... make some changes
+$ git commit –am "Some changes"
+$ git push origin master
+> Username for 'https://github.com':

@@ -7,8 +7,8 @@ var passport = require('passport'),
   methodOverride = require('method-override');
 
 var acl = require('../config/acl.json'); //#A
-var facebookAppId = '446871648832920'; //#A
-var facebookAppSecret = '7499c233a1e2c4d8234dedca5e6a0cc3'; //#A
+var facebookAppId = '414400176035671'; //#A
+var facebookAppSecret = '5046d5e0df926724d357de5dca6fbbe2'; //#A
 var socialNetworkName = 'facebook'; //#A
 var callbackResource = '/auth/facebook/callback'; //#A
 var callbackUrl = 'https://localhost:' + acl.config.sourcePort + callbackResource; //#A
